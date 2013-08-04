@@ -1,4 +1,9 @@
 *.class
+target
+.idea
+.settings
+.project
+*.iml
 
 # Package Files #
 *.jar
